@@ -1,24 +1,5 @@
-.container {
-    text-align: center;
-    align-items: center;
-    padding-top: 0;
-}
-
-#head {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 10%;
-    padding-top: 3%;
-    margin-top: -2%;
-}
-
-.im {
-    background-image: url("https://www.canva.com/photos/MAC3KdbGknA-hot-pizza-slice/");
-    background-attachment: scroll;
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-}
+/* body {
+    background-image:url(pizza.jpeg;
+    background-attachment: fixed;
+    background-size: cover
+} */
