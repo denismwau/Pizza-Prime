@@ -1,8 +1,4 @@
-/* body {
-    background-image:url(pizza.jpeg;
-    background-attachment: fixed;
-    background-size: cover
-} */
+
 .header{
     height: 100px;
     background-color: aqua;
@@ -42,4 +38,9 @@
 .hide-menu-btn:hover{
 color:red ;
     
+}
+body{
+    background-attachment: fixed;
+    background-image: images\pizza icon.jpeg;
+    background: url("images\pizza.jpeg")
 }
